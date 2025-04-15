@@ -18,7 +18,7 @@ A cool web app for annotating your laptop stickers to record where you got them,
 
 ***
 
-## Friend of Not Another Pizza
+## Friends of Not Another Pizza
 
 ### [AI and Deep Learning for Enterprise](https://aidle.uk)
 
