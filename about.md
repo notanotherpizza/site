@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Not Another Pizza is a community of community organisers loosely centered on London in the UK. It is born out of a desire to share resources and make it easier for organisers to find collaborators.
+Not Another Pizza is a community of developer advocates, community organisers, and developer marketers loosely centered on London in the UK. It is born out of a desire to share resources and make it easier for organisers to find collaborators.
 
 ## How to Join Us
 

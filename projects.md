@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Slices of not Another Pizza goodness
+## Slices of Not Another Pizza goodness
 
 ### [stickers](https://github.com/notanotherpizza/stickers)
 
