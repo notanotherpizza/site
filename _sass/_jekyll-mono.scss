@@ -236,6 +236,10 @@ button.button-primary:focus {
 	-o-transition: all 0.4s ease-in-out 0.2s;
 	-ms-transition: all 0.4s ease-in-out 0.2s;
 	transition: all 0.4s ease-in-out 0.2s;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .ch-img-1 { 
