@@ -4,29 +4,24 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## Slices of not Another Pizza goodness
+
+### [stickers](https://github.com/notanotherpizza/stickers)
+
+![a gif of an interactive sticker gallery]({{ site.baseurl }}/images/leos-stickers.gif)
+
+A cool web app for annotating your laptop stickers to record where you got them, check it out on [GitHub](https://github.com/notanotherpizza/stickers).
+
+### [bridge](https://github.com/notanotherpizza/bridge)
+
+[POSSE](https://indieweb.org/POSSE) for community events via a Python API. Under construction, check it out on [GitHub](https://github.com/notanotherpizza/bridge).
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## Friend of Not Another Pizza
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [AI and Deep Learning for Enterprise](https://aidle.uk)
 
-***
-
-## Other Projects
-
-### This Could Be Another Project Name
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
-
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+A Meetup dedicated to talks from people taking the most exciting developments in AI and using it in impactful, real world applications. Find out more at [aidle.uk](https://aidle.uk).
 
 
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
