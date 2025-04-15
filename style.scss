@@ -72,11 +72,10 @@ p {
 }
 
 a {
-  color: $link-color;
+  color: $mono-color;
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: darken($link-color,20);
+  &:hover{
+    color: darken($mono-color,20);
   }
 }
 

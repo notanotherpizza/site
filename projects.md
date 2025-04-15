@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
+
 ## Slices of Not Another Pizza goodness
 
 ### [stickers](https://github.com/notanotherpizza/stickers)
@@ -23,5 +24,3 @@ A cool web app for annotating your laptop stickers to record where you got them,
 ### [AI and Deep Learning for Enterprise](https://aidle.uk)
 
 A Meetup dedicated to talks from people taking the most exciting developments in AI and using it in impactful, real world applications. Find out more at [aidle.uk](https://aidle.uk).
-
-

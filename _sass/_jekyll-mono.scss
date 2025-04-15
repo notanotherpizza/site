@@ -26,6 +26,15 @@
          }
      }
  }
+
+ .page {
+	a {
+	 color: $mono-color;
+	 &:hover{
+	   color: darken($mono-color,20);
+	 }
+ }
+}
  
  .post-heading {
         a {
