@@ -8,6 +8,10 @@ name: notanother.pizza
 # Short bio or description (displayed in the header)
 description: What do community organisers need?
 
+include:
+  - _next
+  - "**/_next/**"
+
 
 #
 # Flags below are optional
