@@ -21,6 +21,6 @@ A cool web app for annotating your laptop stickers to record where you got them,
 
 ## Friends of Not Another Pizza
 
-### [AI and Deep Learning for Enterprise](https://aidle.uk)
+### [AI Signals Community](https:/aisignals.org.uk)
 
-A Meetup dedicated to talks from people taking the most exciting developments in AI and using it in impactful, real world applications. Find out more at [aidle.uk](https://aidle.uk).
+The professional community for deep learning, applied AI and meaningful exchange. Our events are inclusive evenings of talks, food and friendly conversation with ML and AI industry pros, academics and the curious-minded. Find out more at [aisignals.org.uk](https:/aisignals.org.uk).
