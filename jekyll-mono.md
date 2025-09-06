@@ -73,7 +73,7 @@ author: Author Name
 
 ```
 
-### About and Projects Page
+### About and Friends Page
 
 In the parent folder you'll find about.md and projects.md. These are templates for helping you to set up your biodata/CV and projects that will be available at yourusername.github.io/about and yourusername.github.io/projects respectively. Again you can edit it in Markdown on GitHub or using Prose as per your choice.
 
