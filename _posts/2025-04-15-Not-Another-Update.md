@@ -2,6 +2,7 @@
 layout: post
 title: Not Another Update
 author: hugh
+category: update
 ---
 
 What do community organisers need? Not Another Pizza.
