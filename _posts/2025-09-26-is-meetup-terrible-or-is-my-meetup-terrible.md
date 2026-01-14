@@ -2,6 +2,7 @@
 layout: post
 title: Is Meetup Terrible or is *my* meetup terrible?
 author: hugh
+category: update
 ---
 
 A first hand account of trying to move a community off the Meetup platform.
