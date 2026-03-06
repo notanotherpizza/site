@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Mini Blog
-author: your-name
+title: Are Cafe Crusiers the Best City Bikes
+author: Ellie Geddis
 category: workshop
 ---
 
