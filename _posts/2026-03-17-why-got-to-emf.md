@@ -26,5 +26,3 @@ EMF Camp (Electromagnetic Field) is a 4 day long festival of hackers, makers, an
 ## You should go to EMF!
 
 I think you should go to EMF because if you enjoy making, coding, music, and whimsical adventure it's a great time. More than that though I think the community at EMF is amazing and hopefully you can now see why it's one of my favourite places.
-
-![](../images/image.png)
