@@ -1,0 +1,47 @@
+
+<h1>My blog is built with ruby and Jekyll is this dated?</h1>
+
+![ruby](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsitihajar01.github.io%2Fassets%2Fimages%2FGambar%2520jekyll-small.jpg&f=1&nofb=1&ipt=bb1403e2efd7f20c62e4fac09c9ca387fc3f40d4efcf7758e3a70e72aed47734 "Jekyll")
+
+<p>I initially planned to build my blog with python + flask the language and framework I’m most familiar with. However, this came with a lot of caveats especially in deployment. 
+
+Issues I want to write about:
+
+GitHub Pages won't work for it—GitHub Pages only hosts "static" files (HTML/CSS/JS), while Flask needs a "live" Python server to handle the logic and database. </p>
+
+
+
+
+ 
+
+I didn’t want to pay for something like a blog within my website, especially as it’s already built with github pages and deployed for free. So I went down a rabbit hole seeing how I can implement a blog on my website without needing to pay for additional deployment.
+
+I can use something like flask freeze 
+
+Astro is js based and i felt like it was a large heavy framework, it's powerful and great but i was very much not familiar with JS or it's library, i wanted to build this rapidly within a day or a weekend at the most, the rapid pace at which ruby and jekyll allow me to develop was such 
+
+Ruby + Jekyll and uses markdown
+
+Hugo which is Go based
+
+
+
+
+
+
+
+
+
+
+
+Why I picked Jekyll and ruby
+ 
+The ruby syntax is almost child like and very similar to python, furthermore the gem system is incredibly simple and easy for an absolute amateur or someone who isn’t familiar with the ruby frameworks. Furthermore, ruby syntax is so python that a Pythonista can rapidly pick it up and start working.
+
+
+
+
+
+
+
+
