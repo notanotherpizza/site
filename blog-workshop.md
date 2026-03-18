@@ -7,6 +7,18 @@ title: Blog Workshop
 
 [For regular notanother.pizza updates click here](/index)
 
+<style>
+  .post-thumbnail {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+  }
+</style>
+
 <div class="posts">
   {% for post in site.categories.workshop %}
     <article class="post">
@@ -17,7 +29,7 @@ title: Blog Workshop
         {% assign first_image = post.content | split: '<img ' | last %}
         {% if first_image and first_image != post.content %}
           {% assign src = first_image | split: 'src="' | last | split: '"' | first %}
-          <img src="{{ src }}" alt="{{ post.title }}" style="max-width:100%; height:auto;" />
+          <img src="{{ src }}" alt="{{ post.title }}" class="post-thumbnail" />
         {% else %}
           {{ post.excerpt }}
         {% endif %}
