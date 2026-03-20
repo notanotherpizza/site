@@ -1,3 +1,10 @@
+---
+layout: post
+title: My First Blog Post
+author: Yasmin Osman
+category: workshop
+---
+
 # My first blog post!
 
 Welcome to my first blog post
