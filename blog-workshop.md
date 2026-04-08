@@ -5,7 +5,7 @@ title: Blog Workshop
 
 ## Blogs Written by Participants in the Blogging Workshop
 
-[For regular notanother.pizza updates click here](/index)
+[For regular notanother.pizza updates click here](/updates)
 
 <style>
   .post-thumbnail {
