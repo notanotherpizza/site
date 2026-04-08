@@ -252,6 +252,14 @@ permalink: /
   </style>
 </head>
 
+<script>
+  document.querySelector('.search-form').addEventListener('submit', function() {
+    var btn = this.querySelector('button[type="submit"]');
+    btn.textContent = 'Searching…';
+    btn.disabled = true;
+  });
+</script>
+
 <body>
 
   <div class="intro-header">
