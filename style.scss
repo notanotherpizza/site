@@ -275,6 +275,20 @@ nav {
   }
 }
 
+.hero-section-home {
+  text-align: center;
+  padding: 40px 0;
+
+  p {
+    color: $gray;
+  }
+}
+
+.home-search-pointer {
+  text-align: center;
+  color: $gray;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
