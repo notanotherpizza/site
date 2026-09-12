@@ -14,11 +14,11 @@ Conference Chats is a community space for community organizers. Resources includ
 [LinkBlog](https://www.conferencechats.org/linkblog/linkblog.html)
 
 
-### [AI Signals Community](https:/aisignals.org.uk)
+### [AI Signals Community](https://aisignals.org.uk)
 
 ![]({{ site.baseurl }}/images/ai_signals.png)
 
-The professional community for deep learning, applied AI and meaningful exchange. Our events are inclusive evenings of talks, food and friendly conversation with ML and AI industry pros, academics and the curious-minded. Find out more at [aisignals.org.uk](https:/aisignals.org.uk).
+The professional community for deep learning, applied AI and meaningful exchange. Our events are inclusive evenings of talks, food and friendly conversation with ML and AI industry pros, academics and the curious-minded. Find out more at [aisignals.org.uk](https://aisignals.org.uk).
 
 [LinkedIn](https://www.linkedin.com/company/ai-signals-community)
 [YouTube](https://www.youtube.com/@ai-signals-community)
