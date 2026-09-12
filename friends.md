@@ -4,6 +4,17 @@ title: Friends
 permalink: /friends/
 ---
 
+### [Newspeak House](https://newspeak.house)
+
+![]({{ site.baseurl }}/images/newspeak.png)
+
+Newspeak House is an independent residential college in east London, founded in 2015 to study, nurture and inspire emerging communities of practice across civil society and the public sector. It hosts hundreds of events a year, pulling in people from government, activism, journalism, charities, think-tanks and academia, and its library is the Civic Tech Field Guide, the largest collection of political technology projects and communities anywhere.
+
+[Events](https://luma.com/newspeak-house)
+
+[Fellowship](https://newspeak.house/study-with-us)
+
+
 ### [Conference Chats](https://www.conferencechats.org/)
 
 ![]({{ site.baseurl }}/images/conference_chats.png)

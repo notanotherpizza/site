@@ -4,6 +4,18 @@ title: Resources
 permalink: /resources/
 ---
 
+### [bonfire.notanother.pizza](https://bonfire.notanother.pizza)
+
+A community platform for community organisers, hosted by us and run on [Bonfire](https://bonfirenetworks.org) — open source, federated software built for groups rather than for follower counts.
+
+We run it as shared infrastructure rather than a single-community server: any community we work with can have a space of its own on the instance, keep its own members and moderation, and still reach everyone else across the fediverse. No ads, no algorithm deciding who sees your event announcement, and no platform to lose your community to.
+
+It's early days. We're settling registration and moderation before opening the doors wider, so if you organise a community and want a space on it, come and say hello on [Discord](https://discord.notanother.pizza).
+
+[Bonfire](https://bonfirenetworks.org)
+
+[Bonfire docs](https://docs.bonfirenetworks.org)
+
 ### [Blogging Workshop](https://github.com/notanotherpizza/blog-workshop)
 
 Writing blogs can be beneficial to technical careers and is a great way to learn new things and get better at writing, but where to start?
